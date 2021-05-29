@@ -1,0 +1,16 @@
+{
+  "targets": {
+    "github-authentication-d85b6": {
+      "hosting": {
+        "tic-tac-toe": [
+          "github-authentication-d85b6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "hosting": "github-authentication-d85b6",
+    "tictactoe": "github-authentication-d85b6",
+    "default": "github-authentication-d85b6"
+  }
+}

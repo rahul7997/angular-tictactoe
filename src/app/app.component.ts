@@ -76,7 +76,7 @@ export class AppComponent {
 
   reloadGame(){
     this.itemArray = new Array(9).fill('empty');
-    this.player = 'player1';
+    this.player = 'Player1';
     this.message = '';
     this.isCross = true;
   }

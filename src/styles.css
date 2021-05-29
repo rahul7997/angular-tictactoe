@@ -13,5 +13,6 @@
 
 body {
   position: relative;
-  background-image: url(./assets/bgc.jpg);
+  background-image: url(./assets/yellowbubble_bgc.jpg);
+  background-size: cover;
 }

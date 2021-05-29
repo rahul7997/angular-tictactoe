@@ -6,6 +6,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 15px;
+  
 }
 
 .box {
@@ -14,6 +15,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(206, 252, 240);
 }
 
 h1 {
